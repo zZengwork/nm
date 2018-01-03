@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300);
+.wrapper_plan{
+	width:100%;
+	display:flex;
+	font-family:  Lato,"Helvetica Neue" ;
+	flex:1;
+	-webkit-flex:1;
+	user-select: none;
+	flex-direction:column;
+	display:-webkit-flex;
+	-webkit-flex-direction: column;
+} 
